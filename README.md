@@ -1,5 +1,4 @@
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
-
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
@@ -61,9 +60,7 @@ plot_tree(
 plt.title("Decision Tree Classifier for Employee Churn Prediction")
 plt.show()
 ~~~
-
 ## Output:
 <img width="1158" height="921" alt="image" src="https://github.com/user-attachments/assets/66b8920e-b0f0-484a-b06e-d1a510a371be" />
-
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
